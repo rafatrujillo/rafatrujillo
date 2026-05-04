@@ -12,8 +12,6 @@
 
 - 🎓 Estudante de Tecnologia em busca do meu primeiro **estágio**
 - 🌱 Atualmente aprendendo **Python** e aprofundando em **SQL**
-- 💻 Construindo projetos com **HTML5** e **CSS3**
-- 🎯 Objetivo: me tornar um desenvolvedor completo
 - 📍 São Paulo, Brasil
 
 ---
