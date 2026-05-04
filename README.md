@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Progresso
 
 <div align="center">
 
